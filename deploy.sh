@@ -2,7 +2,7 @@ hi every one
 good morning all
 slove the thing
 Updating the file in uat commad
-This line is juat for ches slove the thing
+This line is ches slove the thing
 hey myan how are you
 im updating this line from master bran
 updating line from dev branch
